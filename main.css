@@ -119,4 +119,5 @@ i {
 #contact .icon:hover {
     background: rgba(255, 255, 255, 0.6);
     color: #1a222c;
+    box-shadow: 0 0 8px 0 rgba(255, 255, 255, 0.6)
 }
